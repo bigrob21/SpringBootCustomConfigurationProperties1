@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: custom-config-app
+
+logging:
+  level:
+    org.springframework: error
+
+proj:
+  services:
+    message1: Hello
+    message2: Fresh

@@ -1,0 +1,14 @@
+proj:
+  services:
+    attributes:
+      -
+        serviceName: Foo
+        altName: Fobar
+        attributes:
+          - ABC
+          - DEF
+      -
+        serviceName: Welcome
+        altName: Hello
+        attributes:
+          - 1234
