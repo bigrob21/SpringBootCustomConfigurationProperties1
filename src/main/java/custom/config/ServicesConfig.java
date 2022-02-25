@@ -1,4 +1,4 @@
-package app.custom.config;
+package custom.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
