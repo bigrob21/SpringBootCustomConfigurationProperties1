@@ -1,8 +1,0 @@
-proj:
-  services:
-    service-name: foobar
-    attributes:
-      - abc
-      - def
-      - 123
-    alt-name: barbaz
